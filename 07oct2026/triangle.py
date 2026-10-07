@@ -3,6 +3,6 @@ for i in range(1, 6):
         print(" ", end="")
 
     for k in range (i):
-         print("*", end =" ")
+         print(i, end =" ")
 
     print()  
